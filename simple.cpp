@@ -11,6 +11,8 @@ int main(){
 
 void headerFile(){
   system("clear");
-  cout << "Welcome!\n";
-  cout << "========\n" << endl;
+  cout << "\n\n\n\n\n";
+  cout << "\t========\n" << endl;
+  cout << "\tWelcome!\n";
+  cout << "\t========\n" << endl;
 }
