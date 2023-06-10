@@ -1,14 +1,16 @@
 #include <iostream>
 using namespace std;
 
-void headerFile(){
-  system("clear");
-  cout << "Welcome!\n";
-  cout << "========\n" << endl;
-}
-  
+void headerFile();
+
 int main(){
   headerFile();
   cout << "Hello again--working on Github with VS Code";
   return 0;
+}
+
+void headerFile(){
+  system("clear");
+  cout << "Welcome!\n";
+  cout << "========\n" << endl;
 }
