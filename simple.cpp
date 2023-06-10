@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void headerFile(); //moved function to bottom
+void headerFile(); 
 
 int main(){
   headerFile();
